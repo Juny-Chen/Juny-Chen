@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi. I'm a undergraduate student.
+- 🔭 I’m currently working on GDUT
+- 🌱 I’m currently learning DL, Quaternion Neural Network, Deep Clustering.
+- 🤔 I’m looking for help with u
+- ⚡ Fun fact: I also like sport. 
 
 <!--
 **Juny-Chen/Juny-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
