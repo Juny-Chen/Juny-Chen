@@ -4,12 +4,13 @@
 - 🤔 I’m looking for help with u
 - ⚡ Fun fact: I also like sport.
 
-<div>
-<div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juny-Chen&show_icons=true&include_all_commits=false" />
-<div align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Juny-Chen&layout=compact" />
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juny-Chen&show_icons=true&include_all_commits=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juny-Chen&layout=compact" />
+  </div>
+</div>
+
 
 
 <!--
