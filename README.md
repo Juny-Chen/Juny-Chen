@@ -2,11 +2,14 @@
 - 🔭 I’m currently working on GDUT
 - 🌱 I’m currently learning DL, Quaternion Neural Network, Deep Clustering, LLM&multi-modal learning.
 - 🤔 I’m looking for help with u
-- ⚡ Fun fact: I also like sport. 
+- ⚡ Fun fact: I also like sport.
+
+<div>
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juny-Chen&show_icons=true&include_all_commits=false" />
-</div>
-![Juny Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juny-Chen&show_icons=true&theme=transparent)
+<div align="center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Juny-Chen&layout=compact" />
+<div>
 
 
 <!--
