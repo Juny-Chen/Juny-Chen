@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juny-Chen&show_icons=true&include_all_commits=false" />
 </div>
-
+![Juny Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juny-Chen&show_icons=true&theme=transparent)
 
 
 <!--
