@@ -1,6 +1,4 @@
 ### 👋 Hi. I'm Junyang Chen.
-- 🔭 I’m currently working on GDUT
-- 🌱 I’m currently learning DL, Quaternion Neural Network, Deep Clustering, LLM&multi-modal learning.
 - 🤔 I’m looking for help with u
 - ⚡ Fun fact: I also like sport.
 
